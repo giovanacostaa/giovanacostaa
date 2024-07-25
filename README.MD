@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Eu sou Giovana Costa de França</h1>
 <h3 align="center">Estou iniciando minha carreira como Analista de QA. Recentemente, concluí um bootcamp intensivo na Tripleten, onde desenvolvi habilidades essenciais para garantir a qualidade de software.</h3>
 
-- 📫 Como me encontrar **Você pode me enviar um e-mail para agiovanacosta98@gmail.com.com**
+- 📫 Como me encontrar:  **Você pode me enviar um e-mail para agiovanacosta98@gmail.com.com**
 
-- ⚡ Curiosidade **Eu comecei minha carreira como Técnica de Farmácia antes de me apaixonar por tecnologia e decidir ir para a área de Analista de QA**
+- ⚡ Curiosidade:  **Eu comecei minha carreira como Técnica de Farmácia antes de me apaixonar por tecnologia e decidir ir para a área de Analista de QA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
