@@ -15,9 +15,7 @@
 **Confira meus projetos feitos no bootcamp:**
 <br>
 [- Urban Scooter](https://github.com/giovanacostaa/urban-scooter)
-<br>
 [- Urban Grocers](https://github.com/giovanacostaa/urban-grocers)
-<br>
 [- Urban Routes](https://github.com/giovanacostaa/urban-routes)
   
 - 🔭 Atualmente, estou expandindo meus conhecimentos em **JavaScript, cypreess, Ruby, Cucumber e Capybara para automação de testes**
