@@ -29,6 +29,8 @@
     **- Eu comecei minha carreira como Técnica de Farmácia, atuei 4 anos na área antes de me aprofundar na área de tecnologia e decidir ir para a área de Analista de QA**
     <br>
     **-  Sou PCD com visão monocular, mas essa condição nunca foi um impedimento na minha jornada. Pelo contrário, ela me ajudou a desenvolver ainda mais minha capacidade de concentração e precisão, qualidades que considero cruciais no meu papel como Analista de QA.**
+
+___
 > "Testar é um ato de garantir que cada funcionalidade entregue valor, não apenas código."
 
 
@@ -36,4 +38,3 @@
 <p align="left">
 <a href="https://linkedin.com/in/agiovanacosta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agiovanacosta" height="30" width="40" /></a>
 </p>
-=======
