@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Giovana Costa de França</h1>
 <h3 align="center"> 🎯Recentemente, concluí um bootcamp intensivo na TripleTen, onde adquiri habilidades fundamentais em qualidade de software, marcando o início da minha carreira como Analista de QA. Essa experiência despertou uma paixão pela área, levando-me a iniciar uma graduação em Análise e Desenvolvimento de Sistemas na Unintese, um passo importante para fortalecer minha carreira e aprimorar minhas competências técnicas.</h3>
   
-- 📘 Durante o **bootcamp** de **Analista de QA**, adquiri uma **base sólida** em **testes de aplicativos web e APIs**, utilizando ferramentas como **Postman**, **DevTools** e **SQL.** Desenvolvi **habilidades** em **design de testes avançados**, garantindo a **qualidade** e **confiabilidade** dos sistemas.
+- 🐞 Durante o **bootcamp** de **Analista de QA**, adquiri uma **base sólida** em **testes de aplicativos web e APIs**, utilizando ferramentas como **Postman**, **DevTools** e **SQL.** Desenvolvi **habilidades** em **design de testes avançados**, garantindo a **qualidade** e **confiabilidade** dos sistemas.
 
     <h4> Habilidades e Ferramentas adquiridas: </h4>
 
