@@ -13,7 +13,6 @@
     <br>
     **- Outras Ferramentas:** Visual Studio Code, GitHub, Figma, Excel.
 **Confira meus projetos feitos no bootcamp:**
-<br>
 [- Urban Scooter](https://github.com/giovanacostaa/urban-scooter)
 [- Urban Grocers](https://github.com/giovanacostaa/urban-grocers)
 [- Urban Routes](https://github.com/giovanacostaa/urban-routes)
