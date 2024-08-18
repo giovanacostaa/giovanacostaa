@@ -26,6 +26,7 @@
 
 - ⚡ Curiosidades
     **- Eu comecei minha carreira como Técnica de Farmácia, atuei 4 anos na área antes de me aprofundar na área de tecnologia e decidir ir para a área de Analista de QA**
+    <br>
     **-  Sou PCD com visão monocular, mas essa condição nunca foi um impedimento na minha jornada. Pelo contrário, ela me ajudou a desenvolver ainda mais minha capacidade de concentração e precisão, qualidades que considero cruciais no meu papel como Analista de QA.**
 
 <h3 align="left">Connect with me:</h3>
