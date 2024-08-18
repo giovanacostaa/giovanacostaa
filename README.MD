@@ -4,6 +4,7 @@
 - 🐞 Durante o **bootcamp** de **Analista de QA**, adquiri uma **base sólida** em **testes de aplicativos web e APIs**, utilizando ferramentas como **Postman**, **DevTools** e **SQL.** Desenvolvi **habilidades** em **design de testes avançados**, garantindo a **qualidade** e **confiabilidade** dos sistemas.
 
     <h4> Habilidades e Ferramentas adquiridas: </h4>
+
     **- Testes de Aplicativos Web e APIs:** Experiência em validação de funcionalidades com Postman e DevTools.
     <br>
     **- SQL:** Consultas e validação de dados.
