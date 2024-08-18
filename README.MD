@@ -30,8 +30,8 @@
     <br>
     **-  Sou PCD com visão monocular, mas essa condição nunca foi um impedimento na minha jornada. Pelo contrário, ela me ajudou a desenvolver ainda mais minha capacidade de concentração e precisão, qualidades que considero cruciais no meu papel como Analista de QA.**
 
-___
 > "Testar é um ato de garantir que cada funcionalidade entregue valor, não apenas código."
+___
 
 
 <h3 align="left">Connect with me:</h3>
