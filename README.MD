@@ -6,12 +6,18 @@
     <h4> Habilidades e Ferramentas adquiridas: </h4>
 
     **- Testes de Aplicativos Web e APIs:** Experiência em validação de funcionalidades com Postman e DevTools.
+    <br>
     **- SQL:** Consultas e validação de dados.
+    <br>
     **- Ferramentas de Gestão de Testes:** Jira.
+    <br>
     **- Outras Ferramentas:** Visual Studio Code, GitHub, Figma, Excel.
 **Confira meus projetos feitos no bootcamp:**
+<br>
 [- Urban Scooter](https://github.com/giovanacostaa/urban-scooter)
+<br>
 [- Urban Grocers](https://github.com/giovanacostaa/urban-grocers)
+<br>
 [- Urban Routes](https://github.com/giovanacostaa/urban-routes)
   
 - 🔭 Atualmente, estou expandindo meus conhecimentos em **JavaScript, cypreess, Ruby, Cucumber e Capybara para automação de testes**
