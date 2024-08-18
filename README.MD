@@ -12,10 +12,11 @@
     **- Ferramentas de Gestão de Testes:** Jira.
     <br>
     **- Outras Ferramentas:** Visual Studio Code, GitHub, Figma, Excel.
+    <br>
 **Confira meus projetos feitos no bootcamp:**
-[- Urban Scooter](https://github.com/giovanacostaa/urban-scooter)
-[- Urban Grocers](https://github.com/giovanacostaa/urban-grocers)
-[- Urban Routes](https://github.com/giovanacostaa/urban-routes)
+[Urban Scooter](https://github.com/giovanacostaa/urban-scooter)
+[Urban Grocers](https://github.com/giovanacostaa/urban-grocers)
+[Urban Routes](https://github.com/giovanacostaa/urban-routes)
   
 - 🔭 Atualmente, estou expandindo meus conhecimentos em **JavaScript, cypreess, Ruby, Cucumber e Capybara para automação de testes**
 
