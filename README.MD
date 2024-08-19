@@ -3,7 +3,7 @@
   
 - 🐞 Durante o **bootcamp** de **Analista de QA**, adquiri uma **base sólida** em **testes de aplicativos web e APIs**, utilizando ferramentas como **Postman**, **DevTools** e **SQL.** Desenvolvi **habilidades** em **design de testes avançados**, garantindo a **qualidade** e **confiabilidade** dos sistemas.
 
-#### Habilidades e Ferramentas adquiridas:
+  #### Habilidades e Ferramentas adquiridas:
 
   **- Testes de Aplicativos Web e APIs:** Experiência em validação de funcionalidades com Postman e DevTools.
     <br>
@@ -77,6 +77,6 @@ ___
 
 <br>
 
-[![E-mail](https://img.shields.io/badge/-agiovanacosta98@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:agiovanacosta98@gmail.com)](agiovanacosta98@gmail.com)
+[![E-mail](https://img.shields.io/badge/-agiovanacosta98@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:agiovanacosta98@gmail.com)](maito:agiovanacosta98@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Giovana%20Costa%20de%20França-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agiovanacosta/)](https://www.linkedin.com/in/agiovanacosta/)
 [![Telefone](https://img.shields.io/badge/-+55%2018%2098807--7693-007ACC?style=flat&logo=Phone&logoColor=white)](tel:+5518988077693)
