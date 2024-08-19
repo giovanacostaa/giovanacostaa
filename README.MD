@@ -64,9 +64,6 @@
   
   [![Postgree](https://skillicons.dev/icons?i=postgres&theme=light)](https://skillicons.dev)
 
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white) [![Cypress Cloud](https://img.shields.io/badge/cypress-dashboard-brightgreen.svg)](https://cloud.cypress.io/#/projects/ma3dkn/runs)
 > "Testar é um ato de garantir que cada funcionalidade entregue valor, não apenas código."
 ___
 
