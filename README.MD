@@ -28,7 +28,7 @@
     <br>
     **-  Sou PCD com visão monocular, mas essa condição nunca foi um impedimento na minha jornada. Pelo contrário, ela me ajudou a desenvolver ainda mais minha capacidade de concentração e precisão, qualidades que considero cruciais no meu papel como Analista de QA.**
 
-#### Ferramentas
+<h1 >Ferramentas</h1>
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
 
@@ -67,7 +67,7 @@
 > "Testar é um ato de garantir que cada funcionalidade entregue valor, não apenas código."
 ___
 
-#### 📫 Contato
+<h1 >Contato</h1>
 
 <br>
 
