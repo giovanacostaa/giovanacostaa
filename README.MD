@@ -64,9 +64,6 @@
   
   [![Postgree](https://skillicons.dev/icons?i=postgres&theme=light)](https://skillicons.dev)
 
-#### Próximos Estudos
-
-***Estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias. Alguns dos meus próximos estudos incluem:***
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white) [![Cypress Cloud](https://img.shields.io/badge/cypress-dashboard-brightgreen.svg)](https://cloud.cypress.io/#/projects/ma3dkn/runs)
@@ -77,6 +74,6 @@ ___
 
 <br>
 
-[![E-mail](https://img.shields.io/badge/-agiovanacosta98@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:agiovanacosta98@gmail.com)](maito:agiovanacosta98@gmail.com)
+[![E-mail](https://img.shields.io/badge/-agiovanacosta98@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:agiovanacosta98@gmail.com)](mailto:agiovanacosta98@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Giovana%20Costa%20de%20França-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agiovanacosta/)](https://www.linkedin.com/in/agiovanacosta/)
 [![Telefone](https://img.shields.io/badge/-+55%2018%2098807--7693-007ACC?style=flat&logo=Phone&logoColor=white)](tel:+5518988077693)
